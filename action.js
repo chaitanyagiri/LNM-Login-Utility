@@ -8,6 +8,7 @@ document.getElementById('fillForm').addEventListener('click', function(){
       file: "myscript.js"
     });
   });
+  
   document.getElementById('fillForm').click();
 
   
