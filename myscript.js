@@ -1,4 +1,4 @@
-while(1){
+
 document.getElementById('LoginUserPassword_auth_username').value = 'YOUR USERNAME';
 document.getElementById('LoginUserPassword_auth_password').value = 'YOUR PASSWORD';
 document.querySelector('input[type="submit"]').click();
@@ -9,5 +9,4 @@ var myTimer = setTimeout(function(){
     // document.location.reload();
     console.log("it should appear after 5 second");
 }, 10000);
-}
 
