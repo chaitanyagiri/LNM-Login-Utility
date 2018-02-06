@@ -11,7 +11,8 @@
         }
         ],
     "browser_action": {
-        "default_title": "Click here!",
+        "default_icon": "fav-icon.png",
+        "default_title": "Click here after opening portal in current tab.",
         "default_popup": "index.html"
     },
     "permissions": [
