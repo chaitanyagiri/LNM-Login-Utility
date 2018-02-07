@@ -22,6 +22,8 @@ Definately! its just a bot doing things for you nothing fancy. A person with ver
 			
        FROM NOW YOU WILL BE LOGGED IN AFTER EVERY 3 HOURS.
 
+[Having trouble in installation? Checkout the installation video](https://www.youtube.com/watch?v=-sZZQctQjiU)
+
 NOTE-If you face any issues please create an issue in github repository itself and feel free to mark a star to the repository to show the support.
 
 
