@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "LNM Login Utility",
-    "description": "An extention made by a frustrated developer to ease off the login functionality of the portal",
+    "description": "An extension made by a frustrated developer to ease off the login functionality of the portal",
     "homepage_url": "http://chaitanyagiri.github.io/",
     "version": "1.0",
     "content_scripts": [
