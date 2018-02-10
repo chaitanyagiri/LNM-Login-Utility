@@ -13,12 +13,7 @@ function Timer()
         {
             clearInterval(myTimer);
         }     
-    }  
-
-    if(document.getElementById("LoginUserPassword_error_message") != null)
-    {
-        refreshInterval(myTimer);
-    }   
+    } 
 
     if(document.getElementById('UserCheck_Logoff_Button_span')!= null)
     {
