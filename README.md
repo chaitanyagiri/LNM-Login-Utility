@@ -6,7 +6,7 @@
 In the current login portal of LNMIIT you have to login after every 4 hours to use Internet so you can not download large files so this simply bypasses all the required formalities for you and logs you in after every 3 hours so you are logged in for almost 24 hours/day.
 
 ## Is it safe to use?
-Definately! its just a bot doing things for you nothing fancy. A person with very little knowledge of java script can tell you that <b>not a single piece of information is going anywhere</b>.
+Definately! its just a bot doing things for you nothing fancy. A person with very little knowledge of javascript can tell you that <b>not a single piece of information is going anywhere</b>.
 
 ## How to install it?
 1, Download zip folder(from github link given) and extract it.
