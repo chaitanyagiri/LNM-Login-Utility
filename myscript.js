@@ -12,7 +12,6 @@ myTimer = setInterval(function myFn(){
         setTimeout(function myFn(){
             document.getElementById('UserCheck_Logoff_Button_span').click();
             location='Reset';             
-        console.log("it should appear after 5 second");
         }, 10800000);
     }         
 }, 100);
